@@ -20,7 +20,7 @@ def exibir_menu():
     print("=" * 50)
     print("1. Inserir dados da lavoura")
     print("2. Mostrar dados cadastrados")
-    print("3. Atualizar dados em uma posição do vetor")
+    print("3. Atualizar dados da lavoura")
     print("4. Deletar dados do vetor")
     print("5. Sair do programa")
     print("=" * 50)
